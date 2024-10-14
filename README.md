@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/devganjayansh" target="blank"><img src="https://img.shields.io/twitter/follow/devganjayansh?logo=twitter&style=for-the-badge" alt="devganjayansh" /></a> </p>
 <p align="center">
 <p align="center">
-- 💬 Ask me about **Full Stack Web Development OR Game Design**
+- 💬 Ask me about <b>Full Stack Web Development OR Game Design</b>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
