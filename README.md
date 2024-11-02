@@ -18,12 +18,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://skillicons.dev">
-  <h3 align="center">Languages:<br><img src="https://skillicons.dev/icons?i=nodejs,py,c,cpp,js,go,cs,php" alt="" /></h3>
-  <h3 align="center">Databases:<br><img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite" alt="" /></h3>
-  <h3 align="center">Frameworks & Libraries:<br><img src="https://skillicons.dev/icons?i=express,react,django,flask,laravel,spring,electron,bootstrap,tailwind,unity,unreal" alt=""/></h3>
-  <h3 align="center">Tools and Services:<br><img src="https://skillicons.dev/icons?i=firebase,postman,git,docker,kubernetes,nginx" alt="" /></h3>
-  <h3 align="center">Operating Systems:<br><img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="" /></h3>
-  <h3 align="center">Web Development:<br><img src="https://skillicons.dev/icons?i=html,css" alt="" /></h3>
+  <h3 align="center">Languages:<br><br><img src="https://skillicons.dev/icons?i=nodejs,py,c,cpp,js,go,cs,php" alt="" /></h3>
+  <h3 align="center">Databases:<br><br><img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite" alt="" /></h3>
+  <h3 align="center">Frameworks & Libraries:<br><br><img src="https://skillicons.dev/icons?i=express,react,django,flask,laravel,spring,electron,bootstrap,tailwind,unity,unreal" alt=""/></h3>
+  <h3 align="center">Tools and Services:<br><br><img src="https://skillicons.dev/icons?i=firebase,postman,git,docker,kubernetes,nginx" alt="" /></h3>
+  <h3 align="center">Operating Systems:<br><br><img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="" /></h3>
+  <h3 align="center">Web Development:<br><br><img src="https://skillicons.dev/icons?i=html,css" alt="" /></h3>
 </a></p>
 
 <div align=center>
