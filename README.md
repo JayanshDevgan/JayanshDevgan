@@ -18,7 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://skillicons.dev">
-  <h3 align="center">Languages:<br><br><img src="https://skillicons.dev/icons?i=nodejs,py,c,cpp,js,go,cs,php" alt="" /></h3>
+  <h3 align="center">Languages:<br><br><img src="https://skillicons.dev/icons?i=nodejs,py,c,cpp,js,go,cs,php,lua" alt="" /></h3>
   <h3 align="center">Databases:<br><br><img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite" alt="" /></h3>
   <h3 align="center">Frameworks & Libraries:<br><br><img src="https://skillicons.dev/icons?i=express,react,django,flask,laravel,spring,electron,bootstrap,tailwind,unity,unreal" alt=""/></h3>
   <h3 align="center">Tools and Services:<br><br><img src="https://skillicons.dev/icons?i=firebase,postman,git,docker,kubernetes,nginx" alt="" /></h3>
